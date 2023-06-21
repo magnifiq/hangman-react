@@ -1,3 +1,9 @@
+# The hangman game 
+
+--The game was created in order to practice JavaScript and React. 
+
+--The last version of the game was released in 28/12/2022.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
